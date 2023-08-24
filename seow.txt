@@ -1,0 +1,8 @@
+"seow"
+{
+    "base"  "base"
+    "title" "SEOW RP"
+    "maps" "^gm_"
+    "menusystem" "1"
+    "workshopid" ""
+}
