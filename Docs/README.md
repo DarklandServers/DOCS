@@ -3,9 +3,9 @@
 - [**_Classes_**](#classes)
 - [**_City Living_**](#city-living)
 - [**_Thug Life_**](#thug-life)
-- [**_Government_**](#government)
 - [**_Properties_**](#properties)
 - [**_Vehicles_**](#vehicles)
+- [**_Government_**](#government)
 
 |          **Game Features**           | **Not Started** | **In-Progress** | **On-Hold** | **Complete** |
 | :----------------------------------: | :-------------: | :-------------: | :---------: | :----------: |
