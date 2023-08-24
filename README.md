@@ -17,11 +17,16 @@ This repository is organized to facilitate collaboration and development on the 
 Contributions to SEOW RP Remastered are welcome! To ensure the project's growth and maintainability, please follow these guidelines:
 
 1. Fork the repository.
-2. Create a new branch from the development branch for your feature or fix.
-3. Make your changes and commit them with descriptive messages.
-4. Keep your code organized in the proper file and folder structure. This improves readability and maintainability for everyone.
-5. Comment your code thoughtfully. Well-documented code helps other contributors understand your intentions and aids in troubleshooting.
-6. Push your branch to your fork.
-7. Open a pull request to the development branch in this repository.
-
-**_Remember to adhere to the project's coding standards and practices. Your contribution will be reviewed and merged if it aligns with the project's goals._**
+2. Create a new branch from the '**main**' branch for your bug fix or minor improvement.
+3. If you're working on a brand new feature or making a major change, then create a new branch from the '**development**' branch.
+4. Make your changes and commit them with descriptive messages.
+5. Keep your code organized in the proper file and folder structure. This improves readability and maintainability for everyone.
+6. Comment your code thoughtfully. Well-documented code helps other contributors understand your intentions and aids in troubleshooting.
+7. Push your branch to your fork.
+8. Open a pull request to the appropriate base branch ('**main**' or '**development**') in this repository.
+   <br>
+   <br>
+   <br>
+   > **_Remember to adhere to the project's coding standards and practices._**
+   >
+   > **_Your contribution will be reviewed and merged if it aligns with the project's goals._**
