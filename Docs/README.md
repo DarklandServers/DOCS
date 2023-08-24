@@ -7,14 +7,14 @@
 - [**_Properties_**](#properties)
 - [**_Vehicles_**](#vehicles)
 
-|       **Game Features**        | **Not Started** | **In-Progress** | **On-Hold** | **Complete** |
-| :----------------------------: | :-------------: | :-------------: | :---------: | :----------: |
-| [Core Features](/Docs/CORE.md) |                 |       ✔️        |             |              |
-|  [Classes](/Docs/CLASSES.md)   |       ❌        |                 |             |              |
-|  [City Living](/Docs/CITY.md)  |       ❌        |                 |             |              |
-|   [Thug Life](/Docs/THUG.md)   |       ❌        |                 |             |              |
-|   [Realty](/Docs/REALTY.md)    |       ❌        |                 |             |              |
-| [Vehicles](/Docs/VEHICLES.md)  |       ❌        |                 |             |              |
+|          **Game Features**           | **Not Started** | **In-Progress** | **On-Hold** | **Complete** |
+| :----------------------------------: | :-------------: | :-------------: | :---------: | :----------: |
+| [Core Features](/Docs/pages/CORE.md) |                 |       ✔️        |             |              |
+|  [Classes](/Docs/pages/CLASSES.md)   |       ❌        |                 |             |              |
+|  [City Living](/Docs/pages/CITY.md)  |       ❌        |                 |             |              |
+|   [Thug Life](/Docs/pages/THUG.md)   |       ❌        |                 |             |              |
+|   [Realty](/Docs/pages/REALTY.md)    |       ❌        |                 |             |              |
+| [Vehicles](/Docs/pages/VEHICLES.md)  |       ❌        |                 |             |              |
 
 ### CLASSES
 
