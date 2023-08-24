@@ -18,30 +18,33 @@
 
 ### CLASSES
 
-- **Citizen**
-
-  - Lead Good Or Bad Life
-  - More..
-
-- **Doctor**
-
-  - Heal People
-  - More..
-
-- **Police**
-
-  - Arrest People
-  - More..
-
-- **Mayor**
-  - I really don't know lol
+- Citizen
+- Doctor
+- Police
+- Mayor
 
 ### CITY LIVING
 
+- Currently Nothing
+
 ### THUG LIFE
 
-### GOVERNMENT
+- Marijuana Sales
+- Magic Mushroom Sales
 
 ### PROPERTIES
 
+- Property Purchase
+- Key Chain
+- Realitor Possibily? (Instead of door purchase)
+
 ### VEHICLES
+
+- Dealership with Sales
+- Vehicle Degrigation
+- Vehicle Repair
+- List of Vehicle to be added
+
+### GOVERNMENT
+
+- **_Not sure if there is a point of Mayor anymore?_**
