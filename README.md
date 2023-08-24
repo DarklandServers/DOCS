@@ -2,6 +2,8 @@
 
 SEOW RP (Super Epic OMG WTF) is an engaging Garry's Mod roleplay gamemode that immerses players in a dynamic urban landscape where they can assume the roles of cops, thugs, civilians, and even the mayor. The game's central objective revolves around strategic property acquisition, base construction, and the cultivation of a drug empire for profitable sale. Players must adeptly navigate the fine balance between expanding their illegal operations and guarding their assets against rival factions and law enforcement, offering an adrenaline-pumping experience of resource management, competition, and strategic maneuvering within a bustling virtual city.
 
+For detailed information about the features, mechanics, and usage instructions, please refer to the [Documentation](https://github.com/DarklandServers/SEOW/blob/main/SEOW_RP.md).
+
 ## General repo structure
 
 This repository is organized to facilitate collaboration and development on the SEOW RP Remastered gamemode. The main branches are
