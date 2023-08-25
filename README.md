@@ -27,12 +27,10 @@ The gamemode is split into modules, each related to a specific portion of the ga
 
 The gamemode config is split into four files (found in gamemode/config/)
 
-```
-- config.lua: contains information such as general settings, etc
-- classes.lua: contains information for each playable class
-- achievements.lua: contains information for each achievement
-- upgrades.lua: contains information related to global upgrades
-```
+- **config.lua**: contains information such as general settings, etc
+- **classes.lua**: contains information for each playable class
+- **achievements**.lua: contains information for each achievement
+- **upgrades.lua**: contains information related to global upgrades
 
 content: The content directory contains all materials and sounds for the gamemode. Anything placed in here is auto-added to the client's download - make sure to upload it to the fastdl, too! entities: The entities directory contains things such as the drugs, vehicles, weapons, and much more. Anything the player physically interacts with can be found here.
 
