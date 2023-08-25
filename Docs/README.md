@@ -13,7 +13,7 @@ SEOW RP (Super Epic OMG WTF) is an engaging Garry's Mod roleplay gamemode that i
 
 ---
 
-### CLASSES
+### [CLASSES](/Docs/pages/CLASSES.md)
 
 - Citizen
 - Doctor
@@ -22,12 +22,17 @@ SEOW RP (Super Epic OMG WTF) is an engaging Garry's Mod roleplay gamemode that i
 
 ### CITY LIVING
 
-- Currently Nothing
+- Jobs
+  - Fastfood Worker
+  - Electrician
+  - More to come...
+- Casino Possibly
 
 ### THUG LIFE
 
 - Marijuana Sales
 - Magic Mushroom Sales
+- Gun Seller
 
 ### PROPERTIES
 
