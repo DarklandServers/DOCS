@@ -7,15 +7,6 @@
 - [**_Vehicles_**](#vehicles)
 - [**_Government_**](#government)
 
-|          **Game Features**           | **Not Started** | **In-Progress** | **On-Hold** | **Complete** |
-| :----------------------------------: | :-------------: | :-------------: | :---------: | :----------: |
-| [Core Features](/Docs/pages/CORE.md) |                 |       ✔️        |             |              |
-|  [Classes](/Docs/pages/CLASSES.md)   |       ❌        |                 |             |              |
-|  [City Living](/Docs/pages/CITY.md)  |       ❌        |                 |             |              |
-|   [Thug Life](/Docs/pages/THUG.md)   |       ❌        |                 |             |              |
-|   [Realty](/Docs/pages/REALTY.md)    |       ❌        |                 |             |              |
-| [Vehicles](/Docs/pages/VEHICLES.md)  |       ❌        |                 |             |              |
-
 ### CLASSES
 
 - Citizen
