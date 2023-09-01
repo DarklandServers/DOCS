@@ -4,6 +4,15 @@ SEOW RP (Super Epic OMG WTF) is an engaging Garry's Mod roleplay gamemode that i
 
 ---
 
+- [**_Classes_**](#classes)
+- [**_City Living_**](#city-living)
+- [**_Thug Life_**](#thug-life)
+- [**_Properties_**](#properties)
+- [**_Vehicles_**](#vehicles)
+- [**_Government_**](#government)
+
+---
+
 |          **Game Features**           | **Not Started** | **In-Progress** | **On-Hold** | **Complete** |
 | :----------------------------------: | :-------------: | :-------------: | :---------: | :----------: |
 | [Core Features](/Docs/pages/CORE.md) |                 |       ✔️        |             |              |
