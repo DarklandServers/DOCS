@@ -34,6 +34,22 @@ The gamemode config is split into four files (found in gamemode/config/)
 
 content: The content directory contains all materials and sounds for the gamemode. Anything placed in here is auto-added to the client's download - make sure to upload it to the fastdl, too! entities: The entities directory contains things such as the drugs, vehicles, weapons, and much more. Anything the player physically interacts with can be found here.
 
+## Make Life Easy
+
+**Sync Gamemode For Testing**
+
+```
+git sync
+```
+
+**Push to Repo and Sync the Gamemode**
+
+```
+git gamemode "Your Commit Message"
+```
+
+[**`Learn More`**](/Docs/README.md)
+
 ## Contributing
 
 Contributions to SEOW RP Remastered are welcome! To ensure the project's growth and maintainability, please follow these guidelines:
