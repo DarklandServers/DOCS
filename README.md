@@ -16,8 +16,8 @@ SEOW RP (Super Epic OMG WTF) is an engaging Garry's Mod roleplay gamemode that i
 |          **Game Features**           | **Not Started** | **In-Progress** | **On-Hold** | **Complete** |        **Total Progress**         |
 | :----------------------------------: | :-------------: | :-------------: | :---------: | :----------: | :-------------------------------: |
 | [Core Features](/Docs/pages/CORE.md) |                 |       ✔️        |             |              | ![](https://geps.dev/progress/10) |
-|  [Classes](/Docs/pages/CLASSES.md)   |       ❌        |                 |             |              |                                   |
-|  [City Living](/Docs/pages/CITY.md)  |       ❌        |                 |             |              |                                   |
-|   [Thug Life](/Docs/pages/THUG.md)   |       ❌        |                 |             |              |                                   |
-|   [Realty](/Docs/pages/REALTY.md)    |       ❌        |                 |             |              |                                   |
-| [Vehicles](/Docs/pages/VEHICLES.md)  |       ❌        |                 |             |              |                                   |
+|  [Classes](/Docs/pages/CLASSES.md)   |       ❌        |                 |             |              | ![](https://geps.dev/progress/00) |
+|  [City Living](/Docs/pages/CITY.md)  |       ❌        |                 |             |              | ![](https://geps.dev/progress/00) |
+|   [Thug Life](/Docs/pages/THUG.md)   |       ❌        |                 |             |              | ![](https://geps.dev/progress/00) |
+|   [Realty](/Docs/pages/REALTY.md)    |       ❌        |                 |             |              | ![](https://geps.dev/progress/00) |
+| [Vehicles](/Docs/pages/VEHICLES.md)  |       ❌        |                 |             |              | ![](https://geps.dev/progress/00) |
